@@ -1,0 +1,11 @@
+name = "carbon-auth-worker"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "carbon-auth-worker"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "carbon-projects-db"
+database_id = "35e8e4ea-9cc6-4fc0-8451-9a75f9ea539d"
