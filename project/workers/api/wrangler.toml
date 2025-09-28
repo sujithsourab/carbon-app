@@ -14,6 +14,3 @@ database_id = "35e8e4ea-9cc6-4fc0-8451-9a75f9ea539d"
 binding = "STORAGE"
 bucket_name = "carbon-project-files"
 
-[vars]
-JWT_SECRET = "your-jwt-secret-key"
-OPENAI_API_KEY = "your-openai-api-key"
